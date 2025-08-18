@@ -11,7 +11,7 @@ This repository contains the final project for the **Advanced Deep Learning** co
 The repository is organized into the following main components:
 
   - **`notebooks/`**: Contains all the Jupyter Notebooks used for the project's development.
-  - **`models/`**: Stores the trained model weights and compressed models.
+  - **`final_models/`**: Stores the trained model weights and compressed models.
   - **`data/`**: Holds the various datasets used for training, validation, and testing.
 
 ## 🚀 Getting Started
@@ -44,5 +44,7 @@ The base models are saved as `.pt` weight files. For each base model, several co
 The `data/` folder contains various `.csv` files for different stages of the project. The primary dataset used for final model selection and evaluation is **`test_clean.csv`**.
 
 
-### הסבר בעברית לשימוש במודלים הסופיים.
+### הסבר בעברית לשימוש במודלים הסופיים והורדה מהדרייב של המודלים.
+כנס לקישור ותוריד את כל תכולת התיקייה לתיקייה final_models
+קישור להורדת המודלים:  https://drive.google.com/drive/folders/13-JSc4De9HwPZ-rNOMpybMISRcGoh8E6?usp=sharing 
 כנס לקובץ load_final_models.ipynb יש שם קוד מוכן לפתיחת המודלים. בתא האחרון ניתן להריץ אותם על הקובץ טסט. קובץ הטסט נמצא בתיקייה data בשם train_clean.csv .  (אפשר להשתמש בקובץ אחר אבל צריך לשים לב שיהיו עמודות text ו- label בלבד! יש בקובץ קוד שעושה את זה לכל קובץ טסט אחר שתרצה.)

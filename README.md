@@ -45,7 +45,7 @@ The `data/` folder contains various `.csv` files for different stages of the pro
 
 
 ### הסבר בעברית לשימוש במודלים הסופיים והורדה מהדרייב של המודלים.
-כנס לקישור ותוריד את כל תכולת התיקייה לתיקייה final_models
+כנס לקישור ותוריד את כל התיקייה - (צריך שתיהיה תיקייה בשם final_models שמכילה את כל הקבצים שבקישור)
 
 קישור להורדת המודלים:  https://drive.google.com/drive/folders/13-JSc4De9HwPZ-rNOMpybMISRcGoh8E6?usp=sharing 
 

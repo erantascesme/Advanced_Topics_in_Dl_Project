@@ -46,5 +46,7 @@ The `data/` folder contains various `.csv` files for different stages of the pro
 
 ### הסבר בעברית לשימוש במודלים הסופיים והורדה מהדרייב של המודלים.
 כנס לקישור ותוריד את כל תכולת התיקייה לתיקייה final_models
+
 קישור להורדת המודלים:  https://drive.google.com/drive/folders/13-JSc4De9HwPZ-rNOMpybMISRcGoh8E6?usp=sharing 
+
 כנס לקובץ load_final_models.ipynb יש שם קוד מוכן לפתיחת המודלים. בתא האחרון ניתן להריץ אותם על הקובץ טסט. קובץ הטסט נמצא בתיקייה data בשם train_clean.csv .  (אפשר להשתמש בקובץ אחר אבל צריך לשים לב שיהיו עמודות text ו- label בלבד! יש בקובץ קוד שעושה את זה לכל קובץ טסט אחר שתרצה.)

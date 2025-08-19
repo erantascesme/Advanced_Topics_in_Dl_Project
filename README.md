@@ -11,8 +11,8 @@ This repository contains the final project for the **Advanced Deep Learning** co
 The repository is organized into the following main components:
 
   - **`notebooks/`**: Contains all the Jupyter Notebooks used for the project's development.
-  - **`final_models/`**: Stores the trained model weights and compressed models.
-  - **`data/`**: Holds the various datasets used for training, validation, and testing.
+  - **`notebooks/final_models/`**: Stores the trained model weights and compressed models.
+  - **`notebooks/data/`**: Holds the various datasets used for training, validation, and testing.
 
 ## 🚀 Getting Started
 
@@ -45,8 +45,12 @@ The `data/` folder contains various `.csv` files for different stages of the pro
 
 
 ### הסבר בעברית לשימוש במודלים הסופיים והורדה מהדרייב של המודלים.
-כנס לקישור ותוריד את כל התיקייה - (צריך שתיהיה תיקייה בשם final_models שמכילה את כל הקבצים שבקישור)
+כנס לקישור הורדת המודלים למטה ותוריד את כל התיקייה - תחליץ את התיקייה לתוך התיקייה notebooks
+צריך שתיהיה תיקייה בשם final_models שמכילה את כל הקבצים שבקישור בתוך תיקיית notebooks - כלומר notebooks/final_models/
 
 קישור להורדת המודלים:  https://drive.google.com/drive/folders/13-JSc4De9HwPZ-rNOMpybMISRcGoh8E6?usp=sharing 
 
-כנס לקובץ load_final_models.ipynb יש שם קוד מוכן לפתיחת המודלים. בתא האחרון ניתן להריץ אותם על הקובץ טסט. קובץ הטסט נמצא בתיקייה data בשם train_clean.csv .  (אפשר להשתמש בקובץ אחר אבל צריך לשים לב שיהיו עמודות text ו- label בלבד! יש בקובץ קוד שעושה את זה לכל קובץ טסט אחר שתרצה.)
+לאחר שסיימת להוריד את הקבצים כנס לתיקייה notebooks ותפתח את הקובץ  load_final_models.ipynb
+
+כנס לקובץ load_final_models.ipynb יש שם קוד מוכן לפתיחת המודלים. וודא שיש לך את כל החבילות והגרסאות הנכונות כמו ב- requrments.txt וזהו אפשר להריץ את הקוד והוא ידפיס בתחתית העמוד דאטהפריים של כל המודלים והתוצאות שלהם על הטסט.
+קובץ הטסט נמצא בתיקייה data בשם train_clean.csv (אפשר להשתמש בקובץ אחר אבל צריך לשים לב שיהיו עמודות text ו- label בלבד!)

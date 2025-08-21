@@ -1,0 +1,40 @@
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+tqdm==4.67.1
+
+# Deep learning (GPU build of PyTorch)
+torch>=2.0.1
+torchvision
+torchaudio
+
+# Hugging Face ecosystem
+transformers==4.55.2
+datasets==4.0.0
+evaluate==0.4.5
+accelerate==1.10.0
+sentencepiece==0.2.1
+peft==0.17.0
+
+# NLP / Augmentation
+nltk==3.9.1
+emoji==2.14.1
+nlpaug==1.1.11
+wordcloud==1.9.4
+gensim==4.3.3
+
+# Web / API
+Flask==3.1.1
+fastapi==0.116.1
+uvicorn==0.35.0
+
+# Visualization / Graphs
+networkx==3.5
+plotly==5.24.1
+
+# Logging / Experiment tracking
+wandb==0.21.1

@@ -37,7 +37,7 @@ The project's workflow is documented across six Jupyter Notebooks, each serving 
 
 ### Models
 
-The base models are saved as `.pt` weight files. For each base model, several compression methods were applied, with the resulting checkpoints saved in dedicated folders within the `models/` directory. You can use the `6-load_final_models.ipynb` notebook as a guide to load and use these models.
+The base models are saved as `.pt` weight files. For each base model, several compression methods were applied, with the resulting checkpoints saved in dedicated folders within the `final_models/` directory. You can use the `6-load_final_models.ipynb` notebook as a guide to load and use these models.
 
 ### Datasets
 
@@ -45,7 +45,7 @@ The `data/` folder contains various `.csv` files for different stages of the pro
 
 
 ### הסבר בעברית לשימוש במודלים הסופיים והורדה מהדרייב של המודלים.
-כנס לקישור הורדת המודלים למטה ותוריד את כל התיקייה - תחליץ את התיקייה לתוך התיקייה notebooks
+כנס לקישור הורדת המודלים למטה ותוריד את כל התיקייה - תחלץ את התיקייה לתוך התיקייה notebooks
 צריך שתיהיה תיקייה בשם final_models שמכילה את כל הקבצים שבקישור בתוך תיקיית notebooks - כלומר notebooks/final_models/
 
 קישור להורדת המודלים:  https://drive.google.com/drive/folders/13-JSc4De9HwPZ-rNOMpybMISRcGoh8E6?usp=sharing 

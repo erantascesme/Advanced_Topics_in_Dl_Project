@@ -3,7 +3,7 @@
 
 # Advanced Deep Learning Final Project: COVID-19 Tweet Sentiment Classification
 
-This repository contains the final project for the **Advanced Deep Learning** and accompanies the paper [paper.pdf](./paper.pdf) course, focusing on training a language model for sentiment classification of COVID-19-related tweets. The project explores various training methodologies, model compression techniques, and model selection to achieve an efficient and accurate final model.
+This repository accompanies the paper [Corona Tweet Classification Using NLP Models](./paper.pdf) It contains the final project for the **Advanced Deep Learning** course, focusing on training a language model for sentiment classification of COVID-19-related tweets. The project explores various training methodologies, model compression techniques, and model selection to achieve an efficient and accurate final model.
 
 ## 📁 Repository Structure
 

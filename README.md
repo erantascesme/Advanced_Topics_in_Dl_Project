@@ -1,5 +1,4 @@
- ## * הסבר בעברית כיצד להשתמש במודלים הסופיים ולהוריד את המודלים מהדרייב מוצג בתחתית
-
+ 
 -----
 
 # Advanced Deep Learning Final Project: COVID-19 Tweet Sentiment Classification
@@ -42,15 +41,3 @@ The base models are saved as `.pt` weight files. For each base model, several co
 ### Datasets
 
 The `data/` folder contains various `.csv` files for different stages of the project. The primary dataset used for final model selection and evaluation is **`test_clean.csv`**.
-
-
-### הסבר בעברית לשימוש במודלים הסופיים והורדה מהדרייב של המודלים.
-כנס לקישור הורדת המודלים למטה ותוריד את כל התיקייה - תחלץ את התיקייה לתוך התיקייה notebooks
-צריך שתיהיה תיקייה בשם final_models שמכילה את כל הקבצים שבקישור בתוך תיקיית notebooks - כלומר notebooks/final_models/
-
-קישור להורדת המודלים:  https://drive.google.com/drive/folders/13-JSc4De9HwPZ-rNOMpybMISRcGoh8E6?usp=sharing 
-
-לאחר שסיימת להוריד את הקבצים כנס לתיקייה notebooks ותפתח את הקובץ  load_final_models.ipynb
-
-כנס לקובץ load_final_models.ipynb יש שם קוד מוכן לפתיחת המודלים. וודא שיש לך את כל החבילות והגרסאות הנכונות כמו ב- requrments.txt וזהו אפשר להריץ את הקוד והוא ידפיס בתחתית העמוד דאטהפריים של כל המודלים והתוצאות שלהם על הטסט.
-קובץ הטסט נמצא בתיקייה data בשם train_clean.csv (אפשר להשתמש בקובץ אחר אבל צריך לשים לב שיהיו עמודות text ו- label בלבד!)

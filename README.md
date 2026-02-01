@@ -26,8 +26,8 @@ pip install -r requirements.txt
 The project's workflow is documented across six Jupyter Notebooks, each serving a specific purpose:
 
 1.  **`1-EDA.ipynb`**: This notebook covers the complete Exploratory Data Analysis (EDA) process, including data cleaning, visualization, and initial insights.
-2.  **`2-Training_exc_4.ipynb`**: This notebook trains the models using the methodology from Exercise 4 of the course.
-3.  **`3-Training_exc_5.ipynb`**: This notebook trains the models using the methodology from Exercise 5 of the course.
+2.  **`2-Training_Pytorch.ipynb`**: This notebook trains the models using the methodology from Exercise 4 of the course.
+3.  **`3-Training_HF.ipynb`**: This notebook trains the models using the methodology from Exercise 5 of the course.
 4.  **`4-models_compression.ipynb`**: This notebook details the process of compressing (kivutz) the trained models to reduce their size and computational requirements.
 5.  **`5-models_selection.ipynb`**: This notebook is dedicated to selecting the best-performing models based on various evaluation metrics.
 6.  **`6-load_final_models.ipynb`**: This notebook provides a simple code example for loading and using the final, selected models for inference.
